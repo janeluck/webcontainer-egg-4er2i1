@@ -1,0 +1,51 @@
+2022-04-12 21:17:41,562 ERROR 6 [-/undefined/-/5ms GET /] nodejs.Template render error: (/home/projects/webcontainer-egg-4er2i1/app/view/home.tpl) [Line 2, Column 8]
+  expected variable end
+  expected variable end
+    at Object._prettifyError (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/lib.js:36:11)
+    at Template.render (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:538:21)
+    at eval (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:366:27)
+    at createTemplate (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:315:9)
+    at handle (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:327:11)
+    at eval (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:339:9)
+    at next (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/lib.js:328:7)
+    at Object.asyncIter (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/lib.js:334:3)
+    at NunjucksEnvironment.getTemplate (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:321:9)
+    at NunjucksEnvironment.render (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:360:10)
+name: "Template render error"
+pid: 6
+hostname: webcontainer-egg-4er2i1
+
+2022-04-12 21:17:56,723 ERROR 6 [-/undefined/-/1ms GET /] nodejs.Template render error: (/home/projects/webcontainer-egg-4er2i1/app/view/home.tpl) [Line 2, Column 8]
+  expected variable end
+  expected variable end
+    at Object._prettifyError (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/lib.js:36:11)
+    at Template.render (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:538:21)
+    at eval (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:366:27)
+    at createTemplate (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:315:9)
+    at handle (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:327:11)
+    at eval (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:339:9)
+    at next (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/lib.js:328:7)
+    at Object.asyncIter (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/lib.js:334:3)
+    at NunjucksEnvironment.getTemplate (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:321:9)
+    at NunjucksEnvironment.render (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:360:10)
+name: "Template render error"
+pid: 6
+hostname: webcontainer-egg-4er2i1
+
+2022-04-12 21:21:38,955 ERROR 6 [-/undefined/-/9ms GET /] nodejs.Template render error: (/home/projects/webcontainer-egg-4er2i1/app/view/home.tpl) [Line 2, Column 8]
+  expected variable end
+  expected variable end
+    at Object._prettifyError (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/lib.js:36:11)
+    at Template.render (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:538:21)
+    at eval (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:366:27)
+    at createTemplate (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:315:9)
+    at handle (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:327:11)
+    at eval (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:339:9)
+    at next (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/lib.js:328:7)
+    at Object.asyncIter (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/lib.js:334:3)
+    at NunjucksEnvironment.getTemplate (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:321:9)
+    at NunjucksEnvironment.render (/home/projects/webcontainer-egg-4er2i1/node_modules/nunjucks/src/environment.js:360:10)
+name: "Template render error"
+pid: 6
+hostname: webcontainer-egg-4er2i1
+
